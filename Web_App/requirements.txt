@@ -47,7 +47,7 @@ networkx==2.4
 nicer==0.0.36
 numpy==1.18.1
 oauthlib==3.1.0
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 opt-einsum==3.2.1
 pandas==1.0.4
 Pillow==7.1.2
