@@ -53,7 +53,7 @@ pandas==1.0.4
 Pillow==7.1.2
 Pillow-PIL==0.1.dev0
 pkt==0.0.21
-protobuf==3.12.2
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==2.4.7
